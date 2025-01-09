@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Jaleel+Basha+!;" />
 </h1>
 
-<h3 align="center">A passionate CyberSecurity enthusiastic from India</h3>
+<h3 align="center">A passionate Software Tester from India</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently looking for a job in any security field.
- 
- 🌱 I’m currently learning the latest technologies and updating myself.
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🔭 I’m currently seeking exciting opportunities in Quality Assurance and Software Testing.  
+
+🌱 I’m learning the latest tools, methodologies, and best practices to enhance my testing skills.  
+
+⚡ Fun fact: The cloaks the Night's Watch wore in *Game of Thrones* were crafted from Ikea rugs!  
 
  </div>
  
