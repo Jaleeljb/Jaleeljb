@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,selenium,testng,vscode,maven,github," />
+    <img src="https://skillicons.dev/icons?i=c,java,selenium,vscode,maven,github,autoit," />
 </div>
 
 <br/>
