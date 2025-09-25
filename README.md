@@ -1,49 +1,88 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<p align="center">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100%" alt="Cybersecurity Banner"/>
+</p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Jaleel+Basha+!;" />
-</h1>
+# 👋 Hi, I'm [Your Name]  
 
-<h3 align="center">A passionate Software Tester from India</h3>
+💻 **Software Tester** | 🔐 **Cybersecurity Enthusiast** | 🚀 Lifelong Learner  
 
-<br/>
+I’m passionate about ensuring software quality, building secure systems, and exploring vulnerabilities to strengthen defenses. My focus lies in **QA automation, penetration testing, vulnerability assessment, and secure software development.**  
 
-<div align="center">
+---
 
-🔭 I’m currently seeking exciting opportunities in Quality Assurance and Software Testing.  
+## 🛠️ Tools & Technologies  
 
-🌱 I’m learning the latest tools, methodologies, and best practices to enhance my testing skills.  
+**Testing & QA:**  
+`Selenium` • `Cypress` • `JUnit` • `TestNG` • `Postman` • `JMeter` • `Appium` • `Cucumber`  
 
-⚡ Fun fact: The cloaks the Night's Watch wore in *Game of Thrones* were crafted from Ikea rugs!  
+**Bug Tracking & CI/CD:**  
+`Jira` • `TestRail` • `Azure DevOps` • `Jenkins` • `GitHub Actions` • `GitLab CI`  
 
- </div>
- 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/jaleel-basha-shaik-6a8056210/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://jaleel-portfolio-liart.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+**Cybersecurity & Pentesting:**  
+`Burp Suite` • `OWASP ZAP` • `Nmap` • `Metasploit` • `Wireshark` • `Nessus` • `Kali Linux` • `Splunk` • `SIEM`  
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,selenium,vscode,maven,github,linux,windows," />
-</div>
+**Languages & Scripting:**  
+`Python` • `Java` • `JavaScript` • `Shell` • `SQL`  
 
-<br/>
-<hr/>
+**Version Control & Cloud:**  
+`Git` • `GitHub` • `Docker` • `Kubernetes` • `AWS` • `Azure`  
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+---
 
-<hr/>
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies"/>
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+🔹 [**Automation Test Suite**](#) – End-to-end automation framework for web & API testing  
+🔹 [**Vulnerability Scanner**](#) – Custom-built scanner for detecting common vulnerabilities  
+🔹 [**Bug Tracker Clone**](#) – A Jira/TestRail inspired bug tracking app  
+🔹 [**CTF Writeups**](#) – Documented solutions & walkthroughs from security challenges  
+
+---
+
+## 🏆 Achievements & Certifications  
+
+- 🥇 Bug bounty acknowledgments from [Company Names or Platforms]  
+- 🎓 Certified Ethical Hacker (CEH) *(example, update if applicable)*  
+- 🎯 ISTQB Certified Tester *(example, update if applicable)*  
+- 🔐 OWASP Community Contributor  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/YOUR_TWITTER/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+---
+
+## ✨ Fun & Dynamic Section  
+
+📅 *Today’s Quote:*  
+> “Security is not a product, but a process.” – Bruce Schneier  
+
+📊 *Profile Visitors:*  
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)  
+
+---
+
+⭐️ Don’t forget to **star my repositories** if you find them useful!  
