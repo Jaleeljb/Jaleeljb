@@ -133,9 +133,9 @@ const developer = {
 <sub><b>🌐 Web Fundamentals</b></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/TryHackMe-Jr_Penetration_Tester-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=E74C3C"/>
+<img src="https://img.shields.io/badge/TryHackMe-CompTIA_Seurity+-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=E74C3C"/>
 <br/>
-<sub><b>🕵️ Jr Penetration Tester</b></sub>
+<sub><b>🕵️ CompTIA Security +</b></sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/TryHackMe-Red_Teaming-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=8E44AD"/>
