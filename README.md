@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Jaleel Basha Shaik
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&width=435&lines=Software+Tester+%26+Security+Analyst;Automation+Testing+Specialist;Cybersecurity+Analyst;Always+learning+new+technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&width=435&lines=Aspiring+Software+Engineer+%100" alt="Typing SVG" />
 
 ### ⚡ *"In the realm where security meets quality, perfection is born"* ⚡
 
